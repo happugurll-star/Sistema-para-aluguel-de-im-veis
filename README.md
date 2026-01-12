@@ -1,2 +1,14 @@
 # Sistema-para-aluguel-de-im-veis
-Sistema para aluguel de imóveis.Possibilita que usuários cadastrem imóveis para serem alugados, busquem imóveis para alugar e que funcionários da imobíiliaria tenham acesso ao histórico de reservas
+Sistema para aluguel de imóveis.
+##Funcionalidades:
+-Cadastro de imóveis
+-Verificação de imóveis compatíveis com a necessidade do inquilino
+-Cadastro de funcionários da imobiliaria 
+-Histórico de reservas
+-Menu interativo no terminal
+
+##Tecnologias
+-Python 3
+
+## Como executar
+-python main.py
